@@ -1,5 +1,4 @@
-
-#3.compariosn operators
+# 3.compariosn operators
 # Example: Comparing Student Marks
 mark1 = 85
 mark2 = 92
